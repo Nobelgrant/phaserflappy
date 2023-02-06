@@ -29,6 +29,7 @@ const config = {
       //debug: true,
     }
   },
+  parent: 'phaser-game',
   scene: initScenes()
 }
 
