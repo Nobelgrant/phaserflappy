@@ -1,5 +1,5 @@
 
-import BaseScene from './BaseScene';
+import BaseScene from './BaseScene.js';
 
 const PIPES_TO_RENDER = 4;
 
